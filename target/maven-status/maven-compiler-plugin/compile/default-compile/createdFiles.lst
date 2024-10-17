@@ -1,0 +1,9 @@
+com/example/ToDoList/Models/ToDoList.class
+com/example/ToDoList/Controllers/ItemsController.class
+com/example/ToDoList/Controllers/ToDoListController.class
+com/example/ToDoList/Services/ToDoListService.class
+com/example/ToDoList/Services/ItemsService.class
+com/example/ToDoList/ToDoListApplication.class
+com/example/ToDoList/Repository/ToDoListRepository.class
+com/example/ToDoList/Repository/ItemsRepository.class
+com/example/ToDoList/Models/Items.class
